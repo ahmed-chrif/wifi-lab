@@ -1,0 +1,10 @@
+ctrl_interface=DIR=/run/wpa_supplicant-hwsim
+update_config=0
+p2p_disabled=1
+ap_scan=1
+
+network={
+    ssid="ENSI-WIFI-LAB"
+    psk="CHANGE_ME_12345"
+    key_mgmt=WPA-PSK
+}

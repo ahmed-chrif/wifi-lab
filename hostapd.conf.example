@@ -1,0 +1,10 @@
+interface=hwsim-ap
+driver=nl80211
+ssid=ENSI-WIFI-LAB
+hw_mode=g
+channel=6
+auth_algs=1
+wpa=2
+wpa_key_mgmt=WPA-PSK
+rsn_pairwise=CCMP
+wpa_passphrase=CHANGE_ME_12345

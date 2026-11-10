@@ -1,0 +1,3 @@
+hostapd.conf
+wpa_supplicant.conf
+*.log
